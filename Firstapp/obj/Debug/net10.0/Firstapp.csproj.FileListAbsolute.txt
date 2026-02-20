@@ -1,0 +1,15 @@
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\bin\Debug\net10.0\Firstapp.exe
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\bin\Debug\net10.0\Firstapp.deps.json
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\bin\Debug\net10.0\Firstapp.runtimeconfig.json
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\bin\Debug\net10.0\Firstapp.dll
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\bin\Debug\net10.0\Firstapp.pdb
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\obj\Debug\net10.0\Firstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\obj\Debug\net10.0\Firstapp.AssemblyInfoInputs.cache
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\obj\Debug\net10.0\Firstapp.AssemblyInfo.cs
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\obj\Debug\net10.0\Firstapp.csproj.CoreCompileInputs.cache
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\obj\Debug\net10.0\Firstapp.sourcelink.json
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\obj\Debug\net10.0\Firstapp.dll
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\obj\Debug\net10.0\refint\Firstapp.dll
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\obj\Debug\net10.0\Firstapp.pdb
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\obj\Debug\net10.0\Firstapp.genruntimeconfig.cache
+C:\Users\Komal\OneDrive - Digital Global Information Systems\Desktop\c# first project\Firstapp\obj\Debug\net10.0\ref\Firstapp.dll
